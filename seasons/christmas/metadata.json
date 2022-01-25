@@ -1,0 +1,27 @@
+{
+  "name": "Atlantis World Seasons: Christmas",
+  "description": "Atlantis World has always been about collaboration. Through the cold and dark times, we’ve made it through altogether. As we move forward, seasons change. The world around us changes - one step at a time, one pixel at a time. We build that future together - as we move, grow, and stay true to our vision - building a truly decentralized, community-owned, unstoppable metaverse we all deserve. Happy Holidays, Atlantean!",
+  "image": "ipfs://bafybeiderkcdx6yw3xvo6tppzuisizyqysstgbpmcfvedtoo7pt43mq6za",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Item"
+    },
+    {
+      "trait_type": "Item Type",
+      "value": "Non-Wearable"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "Holiday"
+    },
+    {
+      "trait_type": "Season",
+      "value": "Christmas"
+    }
+  ]
+}
